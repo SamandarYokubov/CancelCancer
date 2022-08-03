@@ -10,3 +10,8 @@ Here is the input image:
 
 Here is the output image:  
 ![This is an image input](https://github.com/SamandarYokubov/CancelCancer/blob/main/photos/model_1751453_out.jpg)
+
+##Contributors
+
+[Akmal Ashirmatov](https://github.com/AkmalAshirmatov)
+[Dostavalov Igor](https://github.com/DostavalovID)
